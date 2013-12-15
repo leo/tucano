@@ -23,5 +23,5 @@ Hierbei handelt es sich um ein minimales, praktisches Wordpress-Theme, welches h
 ======
 <br/>
 <b>Vielen Dank an:</b>
-- Markus von kuchen.io (Inspiration)
-- Alexander (rettungsdroide.de) fürs testen der BETA
+- Markus von <a target="_blank" href="http://kuchen.io">kuchen.io</a> (Inspiration)
+- Alexander (<a target="_blank" href="http://rettungsdroide.de">rettungsdroide.de</a>) für's testen der BETA
